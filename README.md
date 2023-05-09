@@ -24,7 +24,7 @@ Compress and prettify SVGs.
 
 - https://editor.method.ac/
 
-Created and edit SVGs.
+Create and edit SVGs.
 
 ### SVG Path Commander
 
@@ -38,13 +38,13 @@ Convert SVG Shapes (`<cirlce />`, `<ellipse />`, etc.) to Paths (`<path />`).
 
 - https://www.autoregex.xyz/
 
-Convert natural language to Regex.
+Convert natural language to regex.
 
-### Regexr
+### RegExr
 
 - https://regexr.com/
 
-Test and debug Regex strings.
+Test and debug regex strings.
 
 ## SEO
 
