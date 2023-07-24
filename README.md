@@ -89,3 +89,12 @@ Convert between `px` and `rem`.
 - https://cloud.hasura.io/public/graphiql
 
 Public GraphiQL where you can plug in any endpoint.
+
+## Chrome Extensions
+- [Headings Map](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
+
+  Shows the heading structure.
+
+- [META SEO Inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
+
+  Shows all meta tags and also tips and warnings.
