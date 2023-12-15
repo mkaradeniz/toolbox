@@ -66,6 +66,12 @@ Create and generate different favicons and the code for them.
 
 Easily copy unicode glyphs.
 
+### DevToys
+
+- https://devtoys.app/
+
+Collection of tools ranging from JWT de-/encoder to hash-generator.
+
 ### Excalidraw
 
 - https://excalidraw.com/
