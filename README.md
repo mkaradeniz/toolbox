@@ -96,6 +96,11 @@ Convert between `px` and `rem`.
 
 Public GraphiQL where you can plug in any endpoint.
 
+### YayText
+- [YayText](https://yaytext.com/)
+
+Unicode shenanigans to style plain text.
+
 ## Chrome Extensions
 - [Headings Map](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
 
