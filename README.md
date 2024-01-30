@@ -108,4 +108,4 @@ Unicode shenanigans to style plain text.
 
 - [META SEO Inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
 
-  Shows all meta tags and also tips and warnings.
+  Shows all meta tags and also tips & warnings.
